@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3633ae93.css",
-    "main.js": "/static/js/main.1443efac.js",
-    "static/media/videoplayy.mp4": "/static/media/videoplayy.b2d085a5c734a61113ec.mp4",
-    "static/media/pngtree-black-plate-full-of-berries-and-other-ingredients-picture-image_2650764.jpg": "/static/media/pngtree-black-plate-full-of-berries-and-other-ingredients-picture-image_2650764.37c125b20b525d1d2319.jpg",
-    "static/media/estetika-kulinariya-krasivo-3.jpg": "/static/media/estetika-kulinariya-krasivo-3.0947a6a5505ccfe1a1f0.jpg",
-    "static/media/jpg": "/static/media/e785546b7f725acbcd6f730779780f29.8307fa7821be1d2de0dd.jpg",
-    "index.html": "/index.html",
-    "main.3633ae93.css.map": "/static/css/main.3633ae93.css.map",
-    "main.1443efac.js.map": "/static/js/main.1443efac.js.map"
+    "main.css": "/flavor-fiesta/static/css/main.5d7d5c9c.css",
+    "main.js": "/flavor-fiesta/static/js/main.9d326838.js",
+    "static/media/videoplayy.mp4": "/flavor-fiesta/static/media/videoplayy.b2d085a5c734a61113ec.mp4",
+    "static/media/pngtree-black-plate-full-of-berries-and-other-ingredients-picture-image_2650764.jpg": "/flavor-fiesta/static/media/pngtree-black-plate-full-of-berries-and-other-ingredients-picture-image_2650764.37c125b20b525d1d2319.jpg",
+    "static/media/estetika-kulinariya-krasivo-3.jpg": "/flavor-fiesta/static/media/estetika-kulinariya-krasivo-3.0947a6a5505ccfe1a1f0.jpg",
+    "static/media/jpg": "/flavor-fiesta/static/media/e785546b7f725acbcd6f730779780f29.8307fa7821be1d2de0dd.jpg",
+    "index.html": "/flavor-fiesta/index.html",
+    "main.5d7d5c9c.css.map": "/flavor-fiesta/static/css/main.5d7d5c9c.css.map",
+    "main.9d326838.js.map": "/flavor-fiesta/static/js/main.9d326838.js.map"
   },
   "entrypoints": [
-    "static/css/main.3633ae93.css",
-    "static/js/main.1443efac.js"
+    "static/css/main.5d7d5c9c.css",
+    "static/js/main.9d326838.js"
   ]
 }
